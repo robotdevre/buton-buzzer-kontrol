@@ -1,4 +1,4 @@
-const int buzzerPin = 8;
+const int buzzerPin = 8; 
 const int buttonPin = 7;
 
 void setup() {
