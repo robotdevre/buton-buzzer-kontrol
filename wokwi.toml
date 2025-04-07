@@ -1,0 +1,4 @@
+[wokwi]
+version = 1 
+firmware = "build/buton-buzzer-kontrol.ino.hex"
+elf = "build/buton-buzzer-kontrol.ino.elf"
